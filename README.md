@@ -6,3 +6,6 @@ Other bits may have bugs though!
 Not guaranteed to be without issues or bugs. I hope to improve on the whole ecosystem ASAP.
 
 Start installation by running: curl -s https://raw.githubusercontent.com/psautomateio/Install/master/install.sh | sudo -H sh
+Tested and cnfirmed working with Ubuntu 18.04 LTS.
+
+Do NOT run as root. Run as a different user.
