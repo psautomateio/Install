@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://psautomate.io" target="_blank"><img src="https://psautomate.io/wp-content/uploads/2019/10/Color-logo-no-background.png" />   
 </p>
+
+
 # PSAutomate.io
 
 This is a fork of "plexguide"/"PGBlitz". The original author hasnt been seen or heard from in a few weeks so i have forked the project and started PSAutomate.
