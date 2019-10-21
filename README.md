@@ -23,7 +23,10 @@ curl -s https://raw.githubusercontent.com/psautomateio/Install/master/install.sh
 
 I encourage you to take a look at the script and what its doing for your own peace-of-mind.
 
+## Newest Features ##
 
+Check out other branches to try the latest features!
+0.2.0 includes the app "GAPS"
 
 ## Built With
 
