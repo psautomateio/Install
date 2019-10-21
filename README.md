@@ -18,7 +18,7 @@ This is a fork of "plexguide"/"PGBlitz". The original author hasnt been seen or 
 Installation is simple. Its just a case of running the following script and following the instructions.
 
 ```
-curl -s https://raw.githubusercontent.com/psautomateio/Install/master/install.sh | sudo -H sh
+curl -s https://raw.githubusercontent.com/psautomateio/Install/0.2.0/install.sh | sudo -H sh
 ```
 
 I encourage you to take a look at the script and what its doing for your own peace-of-mind.
