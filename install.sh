@@ -11,7 +11,7 @@ package="curl wget software-properties-common git nano htop mc lshw zip unzip di
 
 tee <<-EOF
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌎  NOTICE: PSautomate Version 0.1 - Installer
+🌎  NOTICE: PSautomate Version 0.2.0 - Installer
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 By installing, you agreeing to the terms and conditions of the GNUv3 License!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -31,7 +31,7 @@ chown 1000:1000 /psa /psa/logs /psa/data /psa/stage /psa/logs /psa/tmp /psa/var/
 rm -rf /psa/var/first.update 1>/dev/null 2>&1
 
 # Clone the Program to Stage for Installation
-git clone -b master --single-branch https://github.com/psautomateio/Stage.git /psa/stage
+git clone -b 0.2.0 --single-branch https://github.com/psautomateio/Stage.git /psa/stage
 
 # Checking to See if the Installer ever Installed Python; if so... skip
 var37="/psa/var/python.firstime"
