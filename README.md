@@ -28,6 +28,11 @@ I encourage you to take a look at the script and what its doing for your own pea
 Check out other branches to try the latest features!
 0.2.0 includes the app "GAPS"
 
+### Installation Video ###
+
+https://youtu.be/OVjDUsg2BoY
+
+
 ## Built With
 
 * [Ansible](https://www.ansible.com/)
