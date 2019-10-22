@@ -23,6 +23,9 @@ curl -s https://raw.githubusercontent.com/psautomateio/Install/0.2.0/install.sh 
 
 I encourage you to take a look at the script and what its doing for your own peace-of-mind.
 
+### Installation Video ###
+
+https://youtu.be/OVjDUsg2BoY
 
 
 ## Built With
